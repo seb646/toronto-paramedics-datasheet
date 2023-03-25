@@ -97,7 +97,7 @@ bibliography: references.bib
 
 # Uses
 1. *Has the dataset been used for any tasks already? If so, please provide a description.*
-	- There is no feasible way of determining how the data was previously or is currently used. The Open Data Toronto allows any person to utilize the dataset. One project known to have used this dataset is an analysiz of the Toronto Paramedic Services' response times, available here: https://github.com/seb646/toronto-paramedic-responses. 
+	- There is no feasible way of determining how the data was previously or is currently used. The Open Data Toronto allows any person to utilize the dataset. One project known to have used this dataset is an analysis of the Toronto Paramedic Services' response times, available here: https://github.com/seb646/toronto-paramedic-responses. 
 2. *Is there a repository that links to any or all papers or systems that use the dataset? If so, please provide a link or other access point.*
 	- No, there is no public log of any papers or systems that currently use the dataset.
 3. *What (other) tasks could the dataset be used for?*
