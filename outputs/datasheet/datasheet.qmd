@@ -1,12 +1,11 @@
 ---
 title: "Datasheet for Open Data Toronto's \"Land Ambulance Response Time Standard\""
-subtitle: "My subtitle if needed"
 author: 
   - Sebastian Rodriguez
 thanks: "Code and data are available at: https://github.com/seb646/toronto-paramedics-datasheet."
 date: "`r Sys.time()`"
 date-format: "D MMMM YYYY"
-abstract: "A datasheet for Open Data Toronto's Land Ambulance Response Time Standard dataset [@cite_ambulance_response_data], original data available under the Open Government License -- Toronto. The questions used to form this datasheet were extracted from @gebru2021datasheets."
+abstract: "A datasheet for Open Data Toronto's Land Ambulance Response Time Standard dataset [@cite_ambulance_response_data], original data available under the Open Government License -- Toronto. The questions used to form this datasheet were extracted from @gebru2021datasheets. Created using the R statistical programming language [@citeR]."
 format: pdf
 toc: TRUE
 bibliography: references.bib
