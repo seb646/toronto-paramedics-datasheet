@@ -147,4 +147,9 @@ bibliography: references.bib
 
 \newpage
 
+# Acknowledgements
+Thank you to [Chloe Thierstein](https://github.com/cthierst) for reviewing and providing feedback on this datasheet. 
+
+\newpage
+
 # References
