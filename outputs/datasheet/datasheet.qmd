@@ -84,7 +84,7 @@ bibliography: references.bib
 	- No.
 \newpage 
 
-# Preprocessing/cleaning/labeling
+# Preprocessing, cleaning, and labeling
 1. *Was any preprocessing/cleaning/labeling of the data done (for example, discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)? If so, please provide a description. If not, you may skip the remaining questions in this section.*
 	- Yes, comprehensive preprocessing and cleaning was done prior to the dataset's publication. The dataset is a summary of a larger dataset on response times for individual cases, and these individual cases were omitted from the final dataset. 
 2. *Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (for example, to support unanticipated future uses)? If so, please provide a link or other access point to the "raw" data.*
